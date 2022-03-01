@@ -1,0 +1,4 @@
+opencv-python==4.5.5.62
+tensorflow
+numpy==1.18.5
+vidgear
